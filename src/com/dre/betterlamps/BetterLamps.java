@@ -15,7 +15,7 @@ public class BetterLamps extends JavaPlugin{
 	
 	public BlockListener blocklistener;
 	
-	@Override
+	@Override 
 	public void onEnable()
 	{
 		p=this;
